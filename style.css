@@ -1,0 +1,56 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  body{
+    background-color: green;
+  }
+  table, th, td {
+    border: none;
+    width: 500px;
+    height:60px;
+    text-align: center;
+  }
+  
+  #tablasuperior {
+    background-color: yellowgreen;
+    
+  }
+  
+  
+  
+  
+  .barra1{
+  text-align: center;
+    background-color: rgb(255, 136, 0);
+  }
+  .barra{
+  
+  background-color: orange;
+  }
+  body {
+    background-color:orangered;
+  }
+  h1,h2{
+    text-align: center;
+  }
+  fieldset{
+    border-color: red;
+    border-style: dotted;
+  }  
+  body{
+    background-color: rgb(150, 233, 182);
+  }
+  fieldset{
+    border-color: rgb(90, 228, 86);
+    border-style: dotted;
+  }
+  button{
+    position: center;
+  }
+  h3b{
+    color: white;
+    font-style: solid;
+  }
+  
+  
